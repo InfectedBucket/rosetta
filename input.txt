@@ -1,1 +1,2 @@
 I seldom find myself amused by this impudent child
+docker-compose run translate
